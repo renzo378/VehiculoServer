@@ -5,7 +5,6 @@ import javax.persistence.PersistenceContext;
 import java.util.ArrayList;
 
 @Data
-@Entity
 public class Auto {
 
     static final int DIAS_SEMANA = 7;
